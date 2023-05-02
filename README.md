@@ -1,4 +1,5 @@
 Project description:
+
 This is a movie website that allows users to display a carousel of movies, watch movie trailers, and add/read user reviews.
 
 The website is built using React for the front-end, Java for the back-end, and MongoDB for the database.
